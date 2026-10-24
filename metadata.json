@@ -1,0 +1,6 @@
+{
+  "name": "Jozibali O‘zbek Tili — Alisher Navoiy Ta’lim Platformasi",
+  "description": "8-sinf rusiyzabon o‘quvchilari uchun Alisher Navoiy hayoti, ijodi, Xamsa dostonlari va mumtoz o‘zbek tilini o‘rganishga bag‘ishlangan interaktiv ikki tilli ta’lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
